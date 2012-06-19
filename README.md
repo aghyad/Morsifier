@@ -1,11 +1,13 @@
 ## Morsifier
 A simple morse coder and decoder engine.
 
-### Installation
+## Installation
 
 $ gem install morsifier
 
-### Usage
+## Usage
+
+### Example
 
 m = MorseCodec.new
 
@@ -22,7 +24,7 @@ puts morse_decrypted
 
 "Hello World"
 
-### Author
+## Author
 
 Aghyad Saleh (@aghyadsaleh)
 
