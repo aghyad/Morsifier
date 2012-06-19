@@ -26,7 +26,7 @@ puts morse_decrypted
 
 ## Website
 
-https://rubygems.org/gems/Morsifier
+https://rubygems.org/gems/morsifier
 
 ## Author
 
