@@ -1,4 +1,4 @@
-#### Morsifier
+## Morsifier
 A simple morse coder and decoder engine.
 
 ### Installation
