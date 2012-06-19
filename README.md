@@ -1,25 +1,29 @@
-### ### ### Morsifier ### ### ### 
-A simple Morse coder and decoder engine.
+### morsifier
+A simple morse coder and decoder engine.
 
-### Installation ### 
+### Installation
 
-$ gem install Morsifier
+$ gem install morsifier
 
-### Usage ### 
+### Usage
 
 m = MorseCodec.new
 
 morse_encrypted = m.to_morse("Hello World").inspect
+
 puts morse_encrypted
 
 morse_decrypted = m.decode_morse(m.to_morse("Hello World")).inspect
+
 puts morse_decrypted
 
-### Output ### 
+### Output
 ".... . .-.. .-.. ---   .-- --- .-. .-.. -.."
+
 "Hello World"
 
-### Author ###
+### Author
 
 Aghyad Saleh (@aghyadsaleh)
+
 aghyad1984@hotmail.com

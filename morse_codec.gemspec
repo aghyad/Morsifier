@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
-  s.name        = 'Morsifier'
-  s.version     = '1.0.0'
+  s.name        = 'morsifier'
+  s.version     = '1.1.0'
   s.date        = '2012-06-19'
   s.summary     = "Morse Coding/Decoding Engine"
   s.description = "A simple morse coding/decoding engine gem"
